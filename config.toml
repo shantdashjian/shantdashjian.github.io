@@ -1,0 +1,4 @@
+baseURL = 'https://shantdashjian.github.io/'
+languageCode = 'en-us'
+title = "Shant Dashjian"
+theme = 'hugo-clarity'

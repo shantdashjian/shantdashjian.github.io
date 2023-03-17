@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Shant Dashjian</title>
+    <link>https://shantdashjian.github.io/posts/</link>
+    <description>Recent content in Posts on Shant Dashjian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Mar 2023 19:31:27 +0400</lastBuildDate><atom:link href="https://shantdashjian.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://shantdashjian.github.io/posts/my-first-post/</link>
+      <pubDate>Fri, 17 Mar 2023 19:31:27 +0400</pubDate>
+      
+      <guid>https://shantdashjian.github.io/posts/my-first-post/</guid>
+      <description>
+        
+          
+            Starting today, I will be blogging summaries and thoughts on things I learn every day as a developer.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
