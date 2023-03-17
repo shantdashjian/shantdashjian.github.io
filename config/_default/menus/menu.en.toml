@@ -1,0 +1,26 @@
+[[main]]
+  name = "Blog"
+  url = ""
+  weight = -110
+
+[[main]]
+  name = "Projects"
+  url = "projects/"
+  weight = -109
+
+[[main]]
+  name = "About"
+  url = "about/"
+  weight = -107
+
+# social menu links
+
+[[social]]
+  name = "github"
+  type = "social"
+  weight = 1
+  url = "https://github.com/shantdashjian"
+[[social]]
+  name = "linkedin"
+  weight = 3
+  url = "https://www.linkedin.com/in/shantdashjian/"
