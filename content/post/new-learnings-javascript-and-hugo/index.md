@@ -1,6 +1,6 @@
 ---
 title: "New Learnings: JavaScript and Hugo"
-date: 2023-03-17T19:31:27+04:00
+date: 2023-03-18T19:31:27+04:00
 tags: ["learning", "javascript", "hugo"]
 ---
 Yesterday I kicked off blogging using Hugo. I also carried on with Scrimba's Frontend Developer Path.
