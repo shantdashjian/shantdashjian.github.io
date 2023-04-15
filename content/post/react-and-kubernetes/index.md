@@ -1,5 +1,5 @@
 ---
-title: "React and Kubernetes" # Title of the blog post.
+title: "React, Kubernetes, and Make It Stick" # Title of the blog post.
 date: 2023-04-15T10:51:46+04:00 # Date of post creation.
 tags:
   - react
@@ -25,9 +25,9 @@ with cloud native architecture, observability, and delivery.
 I went through a video summarizing the book **Make It Stick** by Henry Roediger et al., which says:
 1. Avoid passive learning and time-consuming useless learning.
 2. Do retrieval practice and quiz yourself regularly. 
-2. Do Effortful learning and ignore easy learning.
-3. Do spaced repetition.
-4. Do interleaved practice.
-5. Stop to reflect. Don't binge.
-6. Focus on the basics. Learn via gradual accumulation.
-7. Learn from your mistakes.
+3. Do Effortful learning and ignore easy learning.
+4. Do spaced repetition.
+5. Do interleaved practice.
+6. Stop to reflect. Don't binge.
+7. Focus on the basics. Learn via gradual accumulation.
+8. Learn from your mistakes.
