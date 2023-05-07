@@ -2,8 +2,8 @@
 title: "Code Reviews and APIs" # Title of the blog post.
 date: 2023-04-23T10:39:06+04:00 # Date of post creation.
 tags:
-  - code reviews
-  - apis
+  - code review
+  - api
 # comment: false # Disable comment if false.
 ---
 

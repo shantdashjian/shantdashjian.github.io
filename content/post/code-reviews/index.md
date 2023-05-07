@@ -2,7 +2,7 @@
 title: "Code Reviews" # Title of the blog post.
 date: 2023-04-22T06:59:59+04:00 # Date of post creation.
 tags:
-  - code reviews
+  - code review
 # comment: false # Disable comment if false.
 ---
 
