@@ -1,5 +1,5 @@
 ---
-title: "React Basics Wrap Up" # Title of the blog post.
+title: "The React Basics Wrap Up Post" # Title of the blog post.
 date: 2023-05-25T05:44:23+04:00 # Date of post creation.
 tags:
   - react
