@@ -4,6 +4,9 @@ date: 2023-05-31T16:04:23+04:00 # Date of post creation.
 tags:
   - firebase
   - fullstack
+  - css
+  - favicon
+  - web application manifest
 # comment: false # Disable comment if false.
 ---
 
@@ -30,3 +33,13 @@ of constants and functions I learned and used include:
 11. `Object.values()`
 12. `Object.keys()`
 13. `Object.entries()`
+
+## CSS
+In addition, I looked at some new CSS properties:
+1. `flex-wrap: wrap;`, to wrap children of a flexbox
+2. `gap: 1em 2em;`, for gaps among rows and columns
+3. `user-select: none;`, to prevent text selection
+
+## Favicon and the Web Application Manifest
+I also looked at generating **[favicons](https://favicon.io/)** and how to use the web application manifest to 
+produce a mobile app like site. 
