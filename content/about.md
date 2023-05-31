@@ -17,6 +17,6 @@ I bring 10 years of diverse experience in the software industry. I'm an effectiv
 - Test Driven Development (TDD)
 - Pair Programming
 - React, JavaScript, TypeScript, HTML, CSS
-- Scrum
+- Scrum (Certified Scrum Master, Certified Product Owner, Certified Scrum Developer)
 
 See my [GitHub page](https://github.com/shantdashjian).
