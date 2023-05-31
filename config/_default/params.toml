@@ -3,7 +3,7 @@ enableSearch = true
 
 # socials
 linkedin = "https://www.linkedin.com/in/shantdashjian/"
-introDescription = "Developer, learner, mentor, continual incremental improvement."
+introDescription = "Developer, learner, mentor, and continuous incremental improver"
 # introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
 # description = "A theme based on VMware's Clarity Design System for publishing technical blogs with Hugo." # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 # keywords = ["design", "clarity", "hugo theme"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
