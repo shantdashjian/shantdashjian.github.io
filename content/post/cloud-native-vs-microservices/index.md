@@ -16,7 +16,7 @@ approaches.
 
 The experienced [Thomas Vitale](https://www.linkedin.com/in/vitalethomas/) emphasizes that the book is about building 
 cloud native 
-application, and not necessarily about microservices. He points out that he adopts a **service-based** architectural 
+applications, and not necessarily about microservices. He points out that he adopts a **service-based** architectural 
 style. He explains that this allows for services of any size: small, big, and everything in between. I inferred from 
 it that a system built using 
 the microservices-based architectural style must consist of all small/micro services.
