@@ -1,5 +1,5 @@
 ---
-title: "Cloud Native Spring in Action Chapter 0" # Title of the blog post.
+title: "Cloud Native Spring in Action: Chapter 0" # Title of the blog post.
 date: 2023-11-14T08:46:19+04:00 # Date of post creation.
 tags:
   - cloud native
