@@ -10,7 +10,8 @@ tags:
 
 Chapter 1 is **Introduction to Cloud Native**. In this chapter I learned:
 1. Cloud native is an approach to software development which involves designing, developing, and deploying 
-   distributed systems in the cloud to take advantage from the cloud. It aims to achieve scalability, resilience, 
+   distributed systems in the cloud, in a way that takes advantage of the cloud. It aims to achieve scalability, 
+   resilience, 
    agility, and lower cost.
 2. Cloud native applications are:
    1. Scalable
