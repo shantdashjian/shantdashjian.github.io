@@ -9,7 +9,7 @@ tags:
 # comment: false # Disable comment if false.
 ---
 
-**Chapter 3 had 3 main parts:**
+**Chapter 2 had 3 main parts:**
 1. The 15 factors for building cloud native applications.
 2. The hands-on exercise to design, develop, and deploy the first service in the system, the `catalog-service`. 
 3. The system requirements and architecture.
